@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pawfect
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Pawfect
+A Pet Adoption App
+>>>>>>> 785501fa2c691214111d3e2f254aa6c1e54e1e86
