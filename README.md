@@ -3,19 +3,27 @@
 
 BY THIS APP PEOPLE WILL BE ABLE TO ADOPT & BUY FOOD OR ACCESSORIES FOR THEIR PETS.
 
-![3](https://user-images.githubusercontent.com/88645698/164999099-d893eda7-c4cb-48c3-ba2c-cac443db1b25.png)
-![4](https://user-images.githubusercontent.com/88645698/164999102-ea92b012-ecd6-45ba-b3e2-c5ffb45277cd.png)
-![5](https://user-images.githubusercontent.com/88645698/164999104-61b40626-fe19-4d0f-b43b-181d67ccf558.png)
-![6](https://user-images.githubusercontent.com/88645698/164999106-a870bb49-e61e-4ba7-b156-02a149887ae7.png)
-![7](https://user-images.githubusercontent.com/88645698/164999107-daa298c8-1ca9-4e28-8034-b579549d1cdd.png)
-![8](https://user-images.githubusercontent.com/88645698/164999110-82a8d026-6842-4da4-af30-a9d0ffbc9523.png)
-![9](https://user-images.githubusercontent.com/88645698/164999115-2114eb2a-0c82-44bd-a16e-7c0514d78303.png)
-![10](https://user-images.githubusercontent.com/88645698/164999117-3c0ea8c0-6911-4d27-9b86-c43ececf632d.png)
-![11](https://user-images.githubusercontent.com/88645698/164999121-e22e3cdf-949d-464e-b900-37e5c20241cb.png)
-![12](https://user-images.githubusercontent.com/88645698/164999125-66b938c2-08bc-4630-928c-2d1a09496b8a.png)
-![1](https://user-images.githubusercontent.com/88645698/164999127-8871911f-907e-4ccc-be69-dcd6b1d85bd0.png)
-![2](https://user-images.githubusercontent.com/88645698/164999130-833c2c79-edac-4dbc-a95e-e35984bf5bb4.png)
+<p align="right">
 
+![image-004](https://user-images.githubusercontent.com/88645698/164999546-1960287a-83a4-4cb9-b7b1-efbc94be2737.png)
+
+
+
+![image-005](https://user-images.githubusercontent.com/88645698/164999548-508be4bd-26b2-4c33-99be-06eae89f316f.png)
+![image-006](https://user-images.githubusercontent.com/88645698/164999549-c920a2a1-4598-463d-a305-503fb8927de8.png)
+![image-007](https://user-images.githubusercontent.com/88645698/164999550-40f54f2d-8929-4a36-afb5-f9e72173cbdb.png)
+![image-008](https://user-images.githubusercontent.com/88645698/164999551-3729b4d1-5877-42e3-b39f-4e6900383a6b.png)
+![image-009](https://user-images.githubusercontent.com/88645698/164999553-d7698e5f-be41-4c27-b90a-76df7f9b60f2.png)
+![image-010](https://user-images.githubusercontent.com/88645698/164999555-0f17c268-6124-4888-a02e-40c231317cb3.png)
+![image-011](https://user-images.githubusercontent.com/88645698/164999557-28046159-09bc-4105-b4c0-b4dadae644dc.png)
+![image-012](https://user-images.githubusercontent.com/88645698/164999558-d1df28b2-bc7f-45ce-af95-29346b5ab02d.png)
+
+
+![image-001](https://user-images.githubusercontent.com/88645698/164999563-d292990f-aba0-4459-918a-9cb3bea23ed7.png)
+![image-002](https://user-images.githubusercontent.com/88645698/164999564-69445d7a-7876-496c-9a2e-246623a31cb8.png)
+![image-003](https://user-images.githubusercontent.com/88645698/164999566-9c72400f-b43d-459c-8da4-30a154ab211c.png)
+
+</p>
 
 
 
