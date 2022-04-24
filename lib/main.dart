@@ -7,6 +7,7 @@ import 'package:pawfect/constants.dart';
 import 'package:pawfect/screens/splash/splash_screen.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
 }
 
